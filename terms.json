@@ -1,0 +1,685 @@
+{
+  "order": [
+    "White",
+    "White w/ Yellow Stripe",
+    "Yellow",
+    "Orange",
+    "Green",
+    "Purple",
+    "Blue",
+    "Brown",
+    "Red",
+    "Navy Blue",
+    "Black"
+  ],
+  "terms": {
+    "White": [
+      [
+        "Ba Ro",
+        "Return To Ready"
+      ],
+      [
+        "Chagi",
+        "Kick"
+      ],
+      [
+        "Cha Ryut",
+        "Attention"
+      ],
+      [
+        "Kyong Yet",
+        "Bow"
+      ],
+      [
+        "Choon Bee",
+        "Ready Motion"
+      ],
+      [
+        "Dan",
+        "Degree"
+      ],
+      [
+        "Do Bok",
+        "Uniform"
+      ],
+      [
+        "Dojang",
+        "Training area"
+      ],
+      [
+        "Gup",
+        "Grade"
+      ],
+      [
+        "Jireugi",
+        "Punch"
+      ],
+      [
+        "Kiyap",
+        "Yell"
+      ],
+      [
+        "Kuman",
+        "Stop"
+      ],
+      [
+        "Kwan Soo",
+        "Spear Hand"
+      ],
+      [
+        "Makki",
+        "Block"
+      ],
+      [
+        "Poomsae",
+        "Forms"
+      ],
+      [
+        "Sa Bom Nim",
+        "Master"
+      ],
+      [
+        "Seogi",
+        "Stance"
+      ],
+      [
+        "Shi Jak",
+        "Begin"
+      ],
+      [
+        "Shi Oh",
+        "Rest"
+      ],
+      [
+        [
+          "Sonnal",
+          "Soo Do"
+        ],
+        "Knife Hand"
+      ],
+      [
+        "To Ra",
+        "Turn around"
+      ],
+      [
+        "Ti",
+        "Belt"
+      ],
+      [
+        "Yuk Soo",
+        "Ridge Hand"
+      ],
+      [
+        "Hana",
+        "One (Cardinal)"
+      ],
+      [
+        "Dul",
+        "Two (Cardinal)"
+      ],
+      [
+        "Set",
+        "Three (Cardinal)"
+      ],
+      [
+        "Net",
+        "Four (Cardinal)"
+      ],
+      [
+        "Dasut",
+        "Five (Cardinal)"
+      ],
+      [
+        "Yasut",
+        "Six (Cardinal)"
+      ],
+      [
+        "Ilgup",
+        "Seven (Cardinal)"
+      ],
+      [
+        "Yadul",
+        "Eight (Cardinal)"
+      ],
+      [
+        "Ahop",
+        "Nine (Cardinal)"
+      ],
+      [
+        "Yeol",
+        "Ten (Cardinal)"
+      ]
+    ],
+    "White w/ Yellow Stripe": [
+      [
+        "Taekwondo",
+        "Way of Foot and Fist"
+      ],
+      [
+        "Choon Bee Seogi",
+        "Ready Motion Stance"
+      ],
+      [
+        "Juchum Seogi Momtong Jireugi",
+        "Horseback Stance Punch Attack"
+      ],
+      [
+        "Apkubi Seogi Arae Makki",
+        "Front Stance Lower Block"
+      ],
+      [
+        "Apkubi Seogi Momtong Jireugi",
+        "Front Stance Middle Punch"
+      ],
+      [
+        "Apkubi Seogi Olgul Jireugi",
+        "Front Stance Upper Punch"
+      ],
+      [
+        "Apkubi Seogi Olgul Makki",
+        "Front Stance Upper Block"
+      ],
+      [
+        "Ap Chagi Seogi",
+        "Front Kick Stance"
+      ],
+      [
+        "Ap Cha Ol Le Gi",
+        "Front Stretching Kick"
+      ],
+      [
+        "Momtong Ap Chagi",
+        "Front Snap Kick To The Middle"
+      ],
+      [
+        "Olgul Ap Chagi",
+        "Front Snap Kick To The Up"
+      ],
+      [
+        "Momtong Dolyo Chagi",
+        "Roundhouse Kick To The Middle"
+      ],
+      [
+        "Dolyo Chagi",
+        "Roundhouse Kick To The Up"
+      ],
+      [
+        "Dwi Seogi Momtong Bakkat Makki",
+        "Back Stance Middle Block Inside To Outside"
+      ],
+      [
+        "Dwi Seogi Momtong An Makki",
+        "Back Stance Middle Block Outside To Inside"
+      ],
+      [
+        "Dwi Seogi Sonnal Arae Makki",
+        "Back Stance Lower Knife Hand Block"
+      ],
+      [
+        "Dwi Seogi Sonnal Momtong Makki",
+        "Back Stance Middle Knife Hand Block"
+      ],
+      [
+        "Dwi Seogi Sonnal Olgul Makki",
+        "Back Stance Upper Knife Hand Block"
+      ],
+      [
+        "Juchum Seogi Yup Jireugi",
+        "Horseback Stance Side Punch"
+      ],
+      [
+        "Yup Chagi Seogi",
+        "Sidekick Stance"
+      ],
+      [
+        "Yup Cha Ol Le Gi",
+        "Side Stretching Kick"
+      ],
+      [
+        "Momtong Yup Chagi",
+        "Side Snap Kick To The Middle"
+      ],
+      [
+        "Olgul Yup Chagi",
+        "Side Snap Kick To The Up"
+      ],
+      [
+        "Momtong Dwi Dolah Chagi",
+        "Back Pivot Kick To The Middle"
+      ],
+      [
+        "Olgul Dwi Dolah Chagi",
+        "Back Pivot Kick To The Up"
+      ],
+      [
+        "An Chagi",
+        "Forward Crescent Kick"
+      ],
+      [
+        "Bakkat Chagi",
+        "Reverse Crescent Kick"
+      ],
+      [
+        "Kyoroogi Seogi",
+        "Fighting Stance"
+      ],
+      [
+        "Kyorugi",
+        "Fighting"
+      ],
+      [
+        "Il",
+        "One (Ordinal)"
+      ],
+      [
+        "Yee",
+        "Two (Ordinal)"
+      ],
+      [
+        "Sam",
+        "Three (Ordinal)"
+      ],
+      [
+        "Sah",
+        "Four (Ordinal)"
+      ],
+      [
+        "Oh",
+        "Five (Ordinal)"
+      ],
+      [
+        "Yuk",
+        "Six (Ordinal)"
+      ],
+      [
+        "Chil",
+        "Seven (Ordinal)"
+      ],
+      [
+        "Pal",
+        "Eight (Ordinal)"
+      ],
+      [
+        "Ku",
+        "Nine (Ordinal)"
+      ],
+      [
+        "Ship",
+        "Ten (Ordinal)"
+      ]
+    ],
+    "Yellow": [
+      [
+        "Do Bok",
+        "Uniform"
+      ],
+      [
+        "Je Ja",
+        "Student"
+      ],
+      [
+        "Dan",
+        "Degree"
+      ],
+      [
+        "Hoe Jang Nim",
+        "President"
+      ],
+      [
+        "Kwan Jang Nim",
+        "School Head"
+      ],
+      [
+        "Seon Saeng Nim",
+        "Instructor"
+      ],
+      [
+        "Sa Bom Nim",
+        "Master Instructor"
+      ]
+    ],
+    "Orange": [
+      [
+        "Sang Dan",
+        "High Section"
+      ],
+      [
+        "Chung Dan",
+        "Middle Section"
+      ],
+      [
+        "Ha Dan",
+        "Low Section"
+      ],
+      [
+        "Yup",
+        "Side"
+      ],
+      [
+        "Ap",
+        "Front"
+      ],
+      [
+        "Dwi",
+        "Back"
+      ],
+      [
+        "Juchum",
+        "Horseback"
+      ],
+      [
+        "Oll Le Gi",
+        "Rising Technique"
+      ],
+      [
+        "Momtong",
+        "Body"
+      ],
+      [
+        "Arae",
+        "Lower"
+      ],
+      [
+        "Dolyo",
+        "Round Technique"
+      ],
+      [
+        "Olgul",
+        "Face"
+      ]
+    ],
+    "Green": [
+      [
+        "Mok",
+        "Neck"
+      ],
+      [
+        "Pahl",
+        "Arm"
+      ],
+      [
+        "Pahl Mok",
+        "Forearm"
+      ],
+      [
+        "Pahl Kup",
+        "Elbow"
+      ],
+      [
+        "Son Mok",
+        "Wrist"
+      ],
+      [
+        "Son",
+        "Hand"
+      ],
+      [
+        "Myung Chi",
+        "Solar Plexus"
+      ],
+      [
+        "Chung Kwong",
+        "Ribs"
+      ],
+      [
+        "Dan Jun",
+        "Abdomen"
+      ],
+      [
+        "Nang Sim",
+        "Groin"
+      ],
+      [
+        "Da Ri",
+        "Leg"
+      ],
+      [
+        "Mu Reup",
+        "Knee"
+      ],
+      [
+        "Ap Chuk",
+        "Ball Of Foot"
+      ],
+      [
+        "Bal Deungt",
+        "Instep"
+      ],
+      [
+        "Dwi Chuk",
+        "Heel"
+      ]
+    ],
+    "Purple": [
+      [
+        [
+          "Jung Kwon",
+          "Jumeok"
+        ],
+        "Forefist"
+      ],
+      [
+        [
+          "Yu Kwon",
+          "Me Jumeok"
+        ],
+        "Hammerfist"
+      ],
+      [
+        [
+          "Kap Kwon",
+          "Deung Jumeok"
+        ],
+        "Backfist"
+      ],
+      [
+        [
+          "Son Ba Dak Mit",
+          "Batangson"
+        ],
+        "Palm Heel"
+      ],
+      [
+        "Sahm Bo Dae Ryun",
+        "Three Step Sparring"
+      ],
+      [
+        "Il Bo Dae Ryun",
+        "One Step Sparring"
+      ],
+      [
+        "Ja Yu Dae Ryun",
+        "Free Sparring"
+      ],
+      [
+        "Gun Nun Dae Ryun",
+        "Non Contact Sparring"
+      ],
+      [
+        "Jom",
+        "Point"
+      ],
+      [
+        "Kyuk Pa",
+        "Breaking"
+      ],
+      [
+        "Pal Ba Dak",
+        "Sole of Foot"
+      ]
+    ],
+    "Blue": [
+      [
+        [
+          "Sil Chay Dae Ryun",
+          "Gyoroogi"
+        ],
+        "Full Contact Sparring"
+      ]
+    ],
+    "Brown": [
+      [
+        "Nim",
+        "Sir"
+      ],
+      [
+        "Kyosa Nim",
+        "Associate Instructor"
+      ],
+      [
+        "Ko Dan Ja",
+        "Senior Dan Holder"
+      ],
+      [
+        "Yu Dan Ja",
+        "Dan Holder"
+      ],
+      [
+        "Yu Gup Ja",
+        "Gup Holder"
+      ],
+      [
+        "Cho Bo Ja",
+        "Beginning Student"
+      ]
+    ],
+    "Red": [
+      [
+        "Ap Koa Seogi",
+        "Front Crossing Stance"
+      ],
+      [
+        "Dwi Koa Seogi",
+        "Rear Crossing Stance"
+      ],
+      [
+        "Beom Seogi",
+        "Tiger Stance"
+      ],
+      [
+        "Hakdari Seogi",
+        "Crane Stance"
+      ],
+      [
+        "Anja Juseyo",
+        "Sit Down Please"
+      ],
+      [
+        "Il-Eona Juseyo",
+        "Stand Up Please"
+      ],
+      [
+        "Dung-Geulge Anisa",
+        "Sit In A Circle"
+      ],
+      [
+        "Moa Seogi",
+        "Attention Stance"
+      ],
+      [
+        "Kawi Makki",
+        "Scissors Blocking"
+      ],
+      [
+        "Anyong Hasimnika",
+        "Formal Hello"
+      ],
+      [
+        "Anyong hee Kahseyo",
+        "Goodbye (Leaving)"
+      ],
+      [
+        "Anyong hee Kaeseyo",
+        "Goodbye (Staying)"
+      ],
+      [
+        "Pahn Gap Sumnida",
+        "Nice To Meet You"
+      ]
+    ],
+    "Navy Blue": [
+      [
+        "Dasi mannaseo bangawoyo!",
+        "Nice To See You Again"
+      ],
+      [
+        "Je Nun (your name) Imnida",
+        "My Name Is"
+      ],
+      [
+        "Ileumi Mwo Ye Yo?",
+        "What Is Your Name"
+      ],
+      [
+        "Shil Yae Hamnida",
+        "Excuse Me"
+      ],
+      [
+        "Mi An Hamnida",
+        "I'm Sorry"
+      ],
+      [
+        "Eo Dee Im Ni Kka?",
+        "Where Is This"
+      ],
+      [
+        "Eol Ma Im Ni Kka?",
+        "How Much Is This"
+      ],
+      [
+        "O Dee So O Syeoss Na Yo?",
+        "Where Are You From"
+      ],
+      [
+        "Kap Shee Da!",
+        "Let's Go"
+      ],
+      [
+        "Hwa Jang Sil Ee O Di Yae Yo?",
+        "Where Is The Restroom"
+      ]
+    ],
+    "Black": [
+      [
+        "Dasi mannaseo bangawoyo!",
+        "Nice To See You Again"
+      ],
+      [
+        "Je Nun (your name) Imnida",
+        "My Name Is"
+      ],
+      [
+        "Ileumi Mwo Ye Yo?",
+        "What Is Your Name"
+      ],
+      [
+        "Shil Yae Hamnida",
+        "Excuse Me"
+      ],
+      [
+        "Mi An Hamnida",
+        "I'm Sorry"
+      ],
+      [
+        "Eo Dee Im Ni Kka?",
+        "Where Is This"
+      ],
+      [
+        "Eol Ma Im Ni Kka?",
+        "How Much Is This"
+      ],
+      [
+        "O Dee So O Syeoss Na Yo?",
+        "Where Are You From"
+      ],
+      [
+        "Kap Shee Da!",
+        "Let's Go"
+      ],
+      [
+        "Hwa Jang Sil Ee O Di Yae Yo?",
+        "Where Is The Restroom"
+      ]
+    ]
+  }
+}
