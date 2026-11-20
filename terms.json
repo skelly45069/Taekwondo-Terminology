@@ -64,7 +64,7 @@
       ],
       [
         "Kwan Soo",
-        "Spear Hand"
+        "Spearhand"
       ],
       [
         "Makki",
@@ -95,19 +95,19 @@
           "Sonnal",
           "Soo Do"
         ],
-        "Knife Hand"
+        "Knifehand"
       ],
       [
         "To Ra",
         "Turn around"
       ],
       [
-        "Ti",
+        "Tee",
         "Belt"
       ],
       [
         "Yuk Soo",
-        "Ridge Hand"
+        "Ridgehand"
       ],
       [
         "Hana",
@@ -169,11 +169,11 @@
       ],
       [
         "Apkubi Seogi Momtong Jireugi",
-        "Front Stance Middle Punch"
+        "Front Stance Body Punch"
       ],
       [
         "Apkubi Seogi Olgul Jireugi",
-        "Front Stance Upper Punch"
+        "Front Stance Face Punch"
       ],
       [
         "Apkubi Seogi Olgul Makki",
@@ -189,39 +189,39 @@
       ],
       [
         "Momtong Ap Chagi",
-        "Front Snap Kick To The Middle"
+        "Front Snap Kick To The Body"
       ],
       [
         "Olgul Ap Chagi",
-        "Front Snap Kick To The Up"
+        "Front Snap Kick To The Face"
       ],
       [
         "Momtong Dolyo Chagi",
-        "Roundhouse Kick To The Middle"
+        "Roundhouse Kick To The Body"
       ],
       [
-        "Dolyo Chagi",
-        "Roundhouse Kick To The Up"
+        "Olgul Dolyo Chagi",
+        "Roundhouse Kick To The Face"
       ],
       [
         "Dwi Seogi Momtong Bakkat Makki",
-        "Back Stance Middle Block Inside To Outside"
+        "Back Stance Body Block Inside To Outside"
       ],
       [
         "Dwi Seogi Momtong An Makki",
-        "Back Stance Middle Block Outside To Inside"
+        "Back Stance Body Block Outside To Inside"
       ],
       [
         "Dwi Seogi Sonnal Arae Makki",
-        "Back Stance Lower Knife Hand Block"
+        "Back Stance Lower Knifehand Block"
       ],
       [
         "Dwi Seogi Sonnal Momtong Makki",
-        "Back Stance Middle Knife Hand Block"
+        "Back Stance Body Knifehand Block"
       ],
       [
         "Dwi Seogi Sonnal Olgul Makki",
-        "Back Stance Upper Knife Hand Block"
+        "Back Stance Face Knifehand Block"
       ],
       [
         "Juchum Seogi Yup Jireugi",
@@ -229,7 +229,7 @@
       ],
       [
         "Yup Chagi Seogi",
-        "Sidekick Stance"
+        "Side Kick Stance"
       ],
       [
         "Yup Cha Ol Le Gi",
@@ -237,19 +237,19 @@
       ],
       [
         "Momtong Yup Chagi",
-        "Side Snap Kick To The Middle"
+        "Side Snap Kick To The Body"
       ],
       [
         "Olgul Yup Chagi",
-        "Side Snap Kick To The Up"
+        "Side Snap Kick To The Face"
       ],
       [
         "Momtong Dwi Dolah Chagi",
-        "Back Pivot Kick To The Middle"
+        "Back Pivot Kick To The Body"
       ],
       [
         "Olgul Dwi Dolah Chagi",
-        "Back Pivot Kick To The Up"
+        "Back Pivot Kick To The Face"
       ],
       [
         "An Chagi",
@@ -260,7 +260,7 @@
         "Reverse Crescent Kick"
       ],
       [
-        "Kyoroogi Seogi",
+        "Kyorugi Seogi",
         "Fighting Stance"
       ],
       [
@@ -272,7 +272,7 @@
         "One (Ordinal)"
       ],
       [
-        "Yee",
+        "Yi",
         "Two (Ordinal)"
       ],
       [
@@ -434,7 +434,7 @@
         "Leg"
       ],
       [
-        "Mu Reup",
+        "Mu Rup",
         "Knee"
       ],
       [
@@ -442,7 +442,7 @@
         "Ball Of Foot"
       ],
       [
-        "Bal Deungt",
+        "Bal Deung",
         "Instep"
       ],
       [
@@ -512,7 +512,7 @@
       [
         [
           "Sil Chay Dae Ryun",
-          "Gyoroogi"
+          "Kyorugi"
         ],
         "Full Contact Sparring"
       ]
@@ -582,7 +582,7 @@
       ],
       [
         "Anyong Hasimnika",
-        "Formal Hello"
+        "Hello (Formal)"
       ],
       [
         "Anyong hee Kahseyo",
@@ -599,7 +599,7 @@
     ],
     "Navy Blue": [
       [
-        "Dasi mannaseo bangawoyo!",
+        "Dasi mannaseo bangawoyo",
         "Nice To See You Again"
       ],
       [
